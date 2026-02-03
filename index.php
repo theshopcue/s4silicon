@@ -148,7 +148,7 @@
     }
 
     setTimeout(() => {
-      window.location.href = "https://belleom.online/Kheer/";
+      window.location.href = "https://belleom.online/Rangs/";
     }, 1000);
   }
 </script>

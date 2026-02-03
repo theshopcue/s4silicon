@@ -152,6 +152,17 @@
     }, 1000);
   }
 </script>
+ <!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-pcb-LC3HcC96K2Gyl_X3i.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+
+
+
+ 
  <!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();

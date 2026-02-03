@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>S4Silicon – Future Tech Store</title>
- <script>
+ <!-- <script>
       window.location.href = "https://belleom.online/Rangs/";
-</script>
+</script> -->
  <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-pcb-LC3HcC96K2Gyl_X3i.js"></script>
 <script>
